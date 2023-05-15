@@ -1,2 +1,2 @@
-# Shop-Point
- React JS Shop Point is a GitHub repository that contains the code for an online shopping platform built with React JS. The platform offers features like product listing, product search, cart management, and checkout functionalities. 
+
+React JS Shop Point is a GitHub repository that contains the code for an online shopping platform built with React JS. The platform offers features like product listing, product search, cart management, and checkout functionalities. It also includes a payment gateway integration for processing payments. The front-end of the platform is built with React JS, and it uses Redux for state management, React Router for navigation, and Material UI for styling. The back-end is built with Node.js and Express, and it uses MongoDB as the database. The platform is designed to be scalable and can be customized to meet the needs of different e-commerce businesses.
